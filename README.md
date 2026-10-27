@@ -1,2 +1,1 @@
-# git-branching-lab
-Git branching and merging lab
+# Git Branching and Merging Lab
