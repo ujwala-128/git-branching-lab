@@ -1,1 +1,1 @@
-# Git Branching Lab
+# Welcome to Our Git Lab
